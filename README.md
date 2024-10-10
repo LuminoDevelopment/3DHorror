@@ -31,7 +31,7 @@ __Sprint:__ Left Shift ```(hold)```
 
 __Toggle__ Flashlight: ```F```
 
-## __🛠 Installation__``
+## __🛠 Installation__
 Clone the Repository
 
 ```git clone https://github.com/yourusername/dark-forest.git```
