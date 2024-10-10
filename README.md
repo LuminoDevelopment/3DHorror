@@ -50,13 +50,13 @@ Visit http://localhost:5000 in your web browser.
 
 ## 🤖 Technologies Used
 
-Three.js: For rendering 3D graphics.
+__Three.js:__ For rendering 3D graphics.
 
-WebGL: To leverage the GPU for high-performance graphics.
+__WebGL:__ To leverage the GPU for high-performance graphics.
 
-Flask: A lightweight web framework for serving the game.
+__Flask:__ A lightweight web framework for serving the game.
 
-JavaScript & HTML5: Core technologies for web development.^
+__JavaScript & HTML5:__ Core technologies for web development.^
 
 ## 📜 License
 
@@ -64,9 +64,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-Three.js for making 3D in the browser accessible.
-OpenGameArt for inspiring assets.
-Sound Contributors: Special thanks to creators of the ambient and effect sounds.
+__Three.js for making 3D in the browser accessible.__
+
+__OpenGameArt for inspiring assets.__
+
+__Sound Contributors:__ Special thanks to creators of the ambient and effect sounds.
 
 ## ⭐️ Support
 
